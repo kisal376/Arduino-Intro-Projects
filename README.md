@@ -1,0 +1,1 @@
+This repo contains small introductory projects done in Ardino to get a better understanding of the different devices that can be used with Arduino.
